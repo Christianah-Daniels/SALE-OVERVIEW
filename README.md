@@ -1,4 +1,3 @@
-# A-Sales-analysis-dashboard
 INTRODUCTION
 
 This sales dashboard provides an overview of the company’s business performance, highlighting key metrics such as total revenue, profit, monthly revenue trends, and top-performing products. It helps management monitor sales growth, production output, and product contribution to support better business decisions.
